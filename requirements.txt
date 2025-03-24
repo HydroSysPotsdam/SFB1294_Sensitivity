@@ -1,0 +1,6 @@
+seaborn
+jupyter
+ipywidgets
+safepython
+pandas
+scipy
